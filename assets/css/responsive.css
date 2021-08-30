@@ -1,0 +1,56 @@
+.primary-font {
+  font-family: "Roboto", sans-serif;
+}
+
+.secondary-font {
+  font-family: "Montserrat", sans-serif;
+}
+
+/* Extra large devices (large desktops, 1800px and up) */
+/* Extra large devices (large desktops, 1800px and up) */
+/* Extra large devices (large desktops, 1200px and up) */
+/* Large devices (desktops, 992px and up) */
+@media (max-width: 991.98px) {
+  .mb-medium-0 {
+    margin-bottom: 0px !important;
+  }
+  .mb-medium-10 {
+    margin-bottom: 10px !important;
+  }
+  .mb-medium-20 {
+    margin-bottom: 20px !important;
+  }
+  .mb-medium-30 {
+    margin-bottom: 30px !important;
+  }
+  .mb-medium-40 {
+    margin-bottom: 40px !important;
+  }
+  .mb-medium-50 {
+    margin-bottom: 50px !important;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .mb-small-0 {
+    margin-bottom: 0px !important;
+  }
+  .mb-small-10 {
+    margin-bottom: 10px !important;
+  }
+  .mb-small-20 {
+    margin-bottom: 20px !important;
+  }
+  .mb-small-30 {
+    margin-bottom: 30px !important;
+  }
+  .mb-small-40 {
+    margin-bottom: 40px !important;
+  }
+  .mb-small-50 {
+    margin-bottom: 50px !important;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
